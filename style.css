@@ -1,0 +1,65 @@
+html {
+  background: url(images/boardBackground.jpg);
+}
+
+html {
+  background: url("images/boardBackground.jpg");
+}
+
+body {
+  width: 600px;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 20px;
+  background: rgb(255, 255, 255, 0.9);
+  margin: 0px auto;
+}
+
+h1 {
+  background: rgb(60, 60, 60);
+  color: white;
+  border-radius: 20px;
+  letter-spacing: 4px;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
+ss
+/* Classes can be used in multiple tags */
+.center,
+h2 {
+  text-align: center;
+}
+
+#orange {
+  color: orange;
+}
+
+#blue {
+  color: blue;
+}
+
+#red {
+  color: red;
+}
+
+h2 {
+  font-variant: small-caps;
+}
+
+h1,
+h2 {
+  font-family: "Kavivanar", cursive;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+}
+
+.caption {
+  text-align: center;
+  font-size: 12px;
+  font-style: italic;
+}
